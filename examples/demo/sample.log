@@ -1,0 +1,14 @@
+ SCF Done:  E(RwB97XD) =  -79.5000000000     A.U. after 10 cycles
+ Zero-point correction=                           0.123456 (Hartree/Particle)
+ Thermal correction to Gibbs Free Energy=         0.098765
+ Frequencies --   120.0  220.0  350.0
+ Summary of Natural Population Analysis:
+ Natural Population
+ Natural    -----------------------------------------------
+ Atom No    Charge        Core      Valence    Rydberg      Total
+ -----------------------------------------------------------------
+ C    1    -0.250000      1.999      4.240      0.011      6.250
+ N    2    -0.410000      1.999      5.395      0.016      7.410
+ H    3     0.220000      0.000      0.778      0.002      0.780
+ -----------------------------------------------------------------
+ Normal termination of Gaussian 16
