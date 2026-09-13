@@ -1,0 +1,13 @@
+*.chk
+*.fchk
+*.rwf
+*.log
+*.out
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+runs/
+results.csv
+pathway.csv
+!examples/demo/sample.log
