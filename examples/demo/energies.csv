@@ -1,0 +1,5 @@
+name,hydrogen_count,energy_hartree
+carrier_H4,4,-79.500000
+carrier_H2,2,-78.850000
+carrier_H0,0,-78.200000
+H2,2,-1.150000
