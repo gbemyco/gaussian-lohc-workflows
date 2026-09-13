@@ -1,0 +1,11 @@
+{
+  "scheduler": "pbs",
+  "account": "PROJECT_ID",
+  "queue": "normal",
+  "walltime": "12:00:00",
+  "ncpus": 24,
+  "memory": "48GB",
+  "module": "gaussian/g16",
+  "executable": "g16",
+  "route": "wb97xd/def2TZVPP opt freq pop=(nbo,savenbos)"
+}
